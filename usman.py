@@ -57,7 +57,7 @@ def selected_radio_button():
 
 root = Tk()
 root.title('Client Excel Entry')
-# root.resizable(0,0)sss
+# root.resizable(0,0)
 root.iconbitmap('icon.ico')
 root.configure(bg="white")
 root.geometry('500x500')
