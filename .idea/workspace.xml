@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aec50605-38f4-4e14-990b-056a130be6bb" name="Changes" comment="" />
+    <list default="true" id="aec50605-38f4-4e14-990b-056a130be6bb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/AddTimeSlot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassScheduler Sunday 17-04-2022.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class_Scheduler.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adminuser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amount_to_million.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/startup.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +27,28 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Client Excel Updater 1.1.pyw">
+    <configuration name="Client Excel Updater 1.1.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="umer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Client Excel Updater 1.1.pyw" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="usman" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="umer" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -44,6 +72,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Client Excel Updater 1.1.pyw" />
         <item itemvalue="Python.usman" />
       </list>
     </recent_temporary>
@@ -58,5 +87,16 @@
       <updated>1655621331905</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
